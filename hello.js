@@ -54,6 +54,9 @@ app.listen(app.get('port'), function() {
   console.log("Node app is running at localhost:" + app.get('port'));
 });
 
+<<<<<<< HEAD
 // Agregando lineas de comentarios.
 // para prueba de commit Michael 2021
 
+=======
+>>>>>>> 13dac5e7d189246d9b33a96c9d31b646f955754e
